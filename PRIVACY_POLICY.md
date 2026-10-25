@@ -2,7 +2,7 @@
 
 **Last updated:** October 4, 2026
 
-This policy explains what data **TGADeveloper& Tga bot operated by WhoIam & Rdx-Samip S, collects and how it is used.
+This policy explains what data **TGADeveloper& Tga bot operated by WhoAmI collects and how it is used.
 
 ## 1. Data we store
 
