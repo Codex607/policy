@@ -2,7 +2,7 @@
 
 **Last updated:** October 4, 2026
 
-These Terms govern your use of TGADeveloper Discord bot for tournament and scrim management, operated by [Whoiam & Rdx_Samip] we By adding the Bot to a server or using its commands, you agree to these Terms. If you don't agree, remove the Bot from your server and stop using it.
+These Terms govern your use of TGADeveloper Discord bot for tournament and scrim management, operated by Whoiam we By adding the Bot to a server or using its commands, you agree to these Terms. If you don't agree, remove the Bot from your server and stop using it.
 
 ## 1. What the Bot does
 The Bot lets server organizers create tournaments, collect and validate team registrations, assign roles, manage groups and slots, keep registration logs, and clean up channels and roles afterwards.
